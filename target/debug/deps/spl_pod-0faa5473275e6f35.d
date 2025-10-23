@@ -1,0 +1,13 @@
+/home/monte/Work/Velirion/velirion-spl/target/debug/deps/spl_pod-0faa5473275e6f35.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/bytemuck.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/option.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/optional_keys.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/primitives.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/slice.rs
+
+/home/monte/Work/Velirion/velirion-spl/target/debug/deps/libspl_pod-0faa5473275e6f35.so: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/bytemuck.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/option.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/optional_keys.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/primitives.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/slice.rs
+
+/home/monte/Work/Velirion/velirion-spl/target/debug/deps/libspl_pod-0faa5473275e6f35.rlib: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/bytemuck.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/option.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/optional_keys.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/primitives.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/slice.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/bytemuck.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/error.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/option.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/optional_keys.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/primitives.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-pod-0.5.1/src/slice.rs:

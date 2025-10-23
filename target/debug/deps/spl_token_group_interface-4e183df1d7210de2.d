@@ -1,0 +1,10 @@
+/home/monte/Work/Velirion/velirion-spl/target/debug/deps/spl_token_group_interface-4e183df1d7210de2.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.6.0/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.6.0/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.6.0/src/instruction.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.6.0/src/state.rs
+
+/home/monte/Work/Velirion/velirion-spl/target/debug/deps/libspl_token_group_interface-4e183df1d7210de2.so: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.6.0/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.6.0/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.6.0/src/instruction.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.6.0/src/state.rs
+
+/home/monte/Work/Velirion/velirion-spl/target/debug/deps/libspl_token_group_interface-4e183df1d7210de2.rlib: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.6.0/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.6.0/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.6.0/src/instruction.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.6.0/src/state.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.6.0/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.6.0/src/error.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.6.0/src/instruction.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.6.0/src/state.rs:
