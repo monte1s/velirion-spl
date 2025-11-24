@@ -254,6 +254,7 @@ pub struct Phase {
 
 ### Error Codes
 
+
 | Error | Code | Description |
 |-------|------|-------------|
 | `SaleNotActive` | 6000 | Sale is not currently active |
